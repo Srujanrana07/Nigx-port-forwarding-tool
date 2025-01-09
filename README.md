@@ -78,7 +78,7 @@ You can contribute to the [Nigx Port Forwarding Tool project here](https://githu
 
 ### Contributor
 
-- **[Srujan Rana]**: Developed and maintained the Nigx Port Forwarding Tool. You can find more of my work at [GitHub](https://github.com/Srujanrana07).
+- **Srujan Rana**: Developed and maintained the Nigx Port Forwarding Tool. You can find more of my work at [GitHub](https://github.com/Srujanrana07).
 
 ## How to Contribute
 
