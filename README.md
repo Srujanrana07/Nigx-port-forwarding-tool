@@ -1,6 +1,6 @@
 # Nigx: Port-Forwarding-Tool
 
-![Logo](https://via.placeholder.com/800x200?text=Nigx-Port-Forwarding-Tool)
+![Screenshot 2025-01-09 201459](https://github.com/user-attachments/assets/965e0f8b-b6c6-4ca4-acad-78a3c4aa5b03)
 
 **Nigx - Port-Forwarding-Tool** is an open-source alternative to Ngrok, designed to provide seamless port forwarding and traffic redirection from a source port to a target address. This lightweight and efficient tool simplifies the process of exposing local services to the internet.
 
@@ -24,7 +24,9 @@
 - [Example](#example)
 - [License](#license)
 - [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Contributor](#contributor)
+- [How to Contribute](#how-to-contribute)
+
 
 ---
 
@@ -45,7 +47,7 @@
 1. Run the script:
 
    ```
-   python nigx_port_forwarding_tool.py
+   python port_forwarding.py
    ```
 2. Enter the source port you wish to forward.
 3. The tool will display a forwarding link, such as:
@@ -54,9 +56,37 @@
    ```
 4. Forwarded traffic will be redirected to the default target:
 
-  -- Host: 8.8.8.8 (Google's public DNS server)
-  -- Port: 80
+- **Host**: 8.8.8.8 (Google's public DNS server)
+- **Port**: 80
+
 5. To stop forwarding, press `Ctrl+C`.
- 
-  
-  ![Screenshot 2025-01-09 201002](https://github.com/user-attachments/assets/560d7bf4-a89f-4793-b698-4a1486deabf8)
+
+ ## Example
+![Screenshot 2025-01-09 201002](https://github.com/user-attachments/assets/2de39e34-bf79-4779-8198-c50d0fbd081d)
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/Srujanrana07/Nigx-port-forwarding-tool/blob/main/LICENSE) file for details.
+
+## contributing
+
+If you're interested in contributing to the Nigx Port Forwarding Tool project, you can start by exploring the code and opening issues or pull requests. We welcome contributions from developers of all experience levels.
+
+You can contribute to the [Nigx Port Forwarding Tool project here](https://github.com/Srujanrana07/Nigx-port-forwarding-tool).
+
+![Contributor Badge](https://img.shields.io/github/contributors/Srujanrana07/Nigx-port-forwarding-tool?style=flat-square)
+
+### Contributor
+
+- **[Srujan Rana]**: Developed and maintained the Nigx Port Forwarding Tool. You can find more of my work at [GitHub](https://github.com/Srujanrana07).
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-name`).
+6. Open a pull request.
+
+We welcome any contributions, including bug fixes, new features, and documentation improvements!
