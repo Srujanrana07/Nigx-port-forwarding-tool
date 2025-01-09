@@ -21,7 +21,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
 - [License](#license)
 - [Contributing](#contributing)
 - [Contributor](#contributor)
@@ -61,8 +60,6 @@
 
 5. To stop forwarding, press `Ctrl+C`.
 
- ## Example
-![Screenshot 2025-01-09 201002](https://github.com/user-attachments/assets/2de39e34-bf79-4779-8198-c50d0fbd081d)
 
 ## License
 
